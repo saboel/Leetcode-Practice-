@@ -1,2 +1,2 @@
 # Welcome
-A collection of data structure and algorithms problems with solutions in order to impress future employers 
+This compilation consists of a set of data structure and algorithm problems along with their corresponding solutions, designed to make a favorable impression on prospective employers.
