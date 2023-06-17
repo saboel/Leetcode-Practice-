@@ -21,7 +21,7 @@ The space required does not depend on the size of the input array, so only const
 ## Running program
 I have incorporated a argument manager obtained from the following URL: https://drive.google.com/drive/folders/1Yex48TruR1X7wOUskOSSkwMYi4bVaqeX.
 
-The purpose of this argument manager is to simplify the manipulation of command line arguments. I implemented it to enable the passing of various input files through the command line. Subsequently, the driver program within the main() function parses the input file according to the specified format.
+The purpose of this argument manager is to simplify the manipulation of command line arguments. I included it to enable the passing of various input files through the command line. Subsequently, the driver program within the main() function parses the input file according to the specified format.
 
 Regarding the current input.txt file, it contains test cases for the problem. Each test case consists of a target value followed by an array of integers. To utilize this input file, users only need to specify the input file by assigning it using the following syntax:
 ```
